@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/financialswebsite/static/css/main.baf949f3.css",
+    "main.js": "/financialswebsite/static/js/main.b91ac05d.js",
+    "static/media/hero.jpg": "/financialswebsite/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/user5.jpg": "/financialswebsite/static/media/user5.4552016b036dbbea322c.jpg",
+    "static/media/user6.jpg": "/financialswebsite/static/media/user6.dd8afa40e22934d72900.jpg",
+    "static/media/brian.jpg": "/financialswebsite/static/media/brian.99f6df313b6d2681db40.jpg",
+    "static/media/user7.jpg": "/financialswebsite/static/media/user7.44c68c665b5f139c817d.jpg",
+    "static/media/logo.png": "/financialswebsite/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/financialswebsite/index.html",
+    "main.baf949f3.css.map": "/financialswebsite/static/css/main.baf949f3.css.map",
+    "main.b91ac05d.js.map": "/financialswebsite/static/js/main.b91ac05d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf949f3.css",
+    "static/js/main.b91ac05d.js"
+  ]
+}
